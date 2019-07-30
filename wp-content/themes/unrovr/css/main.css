@@ -661,7 +661,7 @@ textarea,
 	display: block;
 	}
 .card-content:not(.is-loaded) {
-	background-image: url(../images/bckg/loading.svg); background-position: center 50px; background-repeat: no-repeat; background-size: 48px 48px;
+	background-image: url(https://adeagungkp.github.io/aakp/wp-content/themes/unrovr/images/bckg/loading.svg); background-position: center 50px; background-repeat: no-repeat; background-size: 48px 48px;
 	}
 .card-content .page {
 	padding: 0; margin: 0;
@@ -1712,7 +1712,7 @@ button:not(.button):hover {
 	}
 button.mfp-close:before,
 button.mfp-arrow:before {
-	background: url(../images/bckg/mfp-default-skin.svg) 0 0 no-repeat; background-size: 264px 88px;
+	background: url(https://adeagungkp.github.io/aakp/wp-content/themes/unrovr/images/bckg/mfp-default-skin.svg) 0 0 no-repeat; background-size: 264px 88px;
 	}
 button.mfp-close {
 	overflow: hidden;
@@ -1783,7 +1783,7 @@ button.mfp-arrow-right:before {
 	opacity: 0;
 	}
 .mfp-preloader {
-	width: 48px; height: 48px; opacity: 1; margin: 0 auto; background: url(../images/bckg/loading-light.svg) center center no-repeat; background-size: 48px 48px;
+	width: 48px; height: 48px; opacity: 1; margin: 0 auto; background: url(https://adeagungkp.github.io/aakp/wp-content/themes/unrovr/images/bckg/loading-light.svg) center center no-repeat; background-size: 48px 48px;
 	}
 .mfp-zoom-in.mfp-ready .mfp-preloader {
 	display: block;
@@ -2316,7 +2316,7 @@ a.more-link:hover {
     margin-bottom: 2.4em; font-size: 11px; opacity: .6; text-transform: uppercase; letter-spacing: 2px; font-weight: 700;
     }
 .widget-title:after { 
-    display: block; width: 64px; height: 16px; content: ""; background-image: url(../images/bckg/lines.png); background-size: 40px 7px; background-repeat: no-repeat; margin-top: 13px;
+    display: block; width: 64px; height: 16px; content: ""; background-image: url(https://adeagungkp.github.io/aakp/wp-content/themes/unrovr/images/bckg/lines.png); background-size: 40px 7px; background-repeat: no-repeat; margin-top: 13px;
 }
 .widget-area ul li { 
     font-size: .875em; 
