@@ -20,8 +20,6 @@
 	
 	/* DOCUMENT LOAD */
 	$(function() {
-		
-		
 		// ------------------------------
 		// SOUND EFFECTS 
 		soundEffects = $('html').hasClass('sound-effects');
